@@ -236,7 +236,7 @@ Finalize o prompt com a instrução de validação automatizada:
 
 <div align="center">
 
-📄 Versão visual completa: [`explanation.html`](./gemini-code-1792201661741.html)
+📄 Versão visual completa: [`explanation.html`](./explanation.html)
 
 Feito com 💙 por **Lorison Gilles (Gill3s0x01)** · Tech Lead
 
