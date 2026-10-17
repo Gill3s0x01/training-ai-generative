@@ -11,7 +11,7 @@
 
 <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1000&auto=format&fit=crop" alt="IA Generativa" width="100%">
 
-**Autor:** Lorison Gilles ([@Gill3s0x01](https://github.com/Gilles0x01)) · Tech Lead
+**Autor:** Gilles3s0x01 ([@Gill3s0x01](https://github.com/Gilles0x01)) · Tech Lead
 
 </div>
 
@@ -238,7 +238,7 @@ Finalize o prompt com a instrução de validação automatizada:
 
 📄 Versão visual completa: [`explanation.html`](./explanation.html)
 
-Feito com 💙 por **Lorison Gilles (Gill3s0x01)** · Tech Lead
+Feito com 💙 por **Gill3s0x01** · Tech Lead
 
 ⭐ Se este guia te ajudou, deixe uma estrela no repositório!
 
